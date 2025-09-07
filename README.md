@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ray de Sousa
+# Ray de Sousa
 
 **`Desenvolvedor Backend`**
 
