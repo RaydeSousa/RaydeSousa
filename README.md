@@ -2,10 +2,18 @@
 
 **`Desenvolvedor Backend`**
 
-Sou **desenvolvedor backend em formação**, com experiência prática em **Java** e **Python (Flask)**. Atualmente, meu foco é evoluir em **Node.js** e ferramentas de backend modernas, construindo APIs robustas e escaláveis.
+Sou **desenvolvedor backend em formação**, com experiência prática em **Java** e **TypeScript**. Atualmente, meu foco é evoluir em **Node.js** e ferramentas de backend modernas, construindo APIs robustas e escaláveis.
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
