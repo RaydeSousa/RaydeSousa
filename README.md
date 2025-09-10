@@ -2,10 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-🚀 Desenvolvedor Backend | Node.js & TypeScript
-🎓 Cursando Engenharia de Software, unindo teoria e prática
-💻 Focado em construir APIs robustas, escaláveis e modernas
-🔍 Sempre explorando novas ferramentas e boas práticas de backend
+🚀 Desenvolvedor Backend | Node.js & TypeScript • 🎓 Cursando Engenharia de Software • 💻 APIs robustas e escaláveis • 🔍 Explorando novas ferramentas
+
 
 ### 🤖 Linguagens e Tecnologias
 
