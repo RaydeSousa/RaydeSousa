@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Backend`**
 
-Sou **desenvolvedor backend em formação**, com experiência prática em **Java** e **TypeScript**. Atualmente, meu foco é evoluir em **Node.js** e ferramentas de backend modernas, construindo APIs robustas e escaláveis.
+🚀 Desenvolvedor Backend | Node.js & TypeScript
+🎓 Cursando Engenharia de Software, unindo teoria e prática
+💻 Focado em construir APIs robustas, escaláveis e modernas
+🔍 Sempre explorando novas ferramentas e boas práticas de backend
 
 ### 🤖 Linguagens e Tecnologias
 
