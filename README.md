@@ -1,8 +1,8 @@
 # Ray de Sousa
 
-**`Desenvolvedor Backend`**
+**`Software Developer`**
 
-🚀 Desenvolvedor Backend | Node.js & TypeScript • 🎓 Cursando Engenharia de Software • 💻 APIs robustas e escaláveis • 🔍 Explorando novas ferramentas
+🎓 Cursando Engenharia de Software • Aprendendo e desenvolvendo projetos práticos
 
 
 ### 🤖 Linguagens e Tecnologias
