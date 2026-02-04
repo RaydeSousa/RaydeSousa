@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-🎓 Cursando Engenharia de Software • Aprendendo e desenvolvendo projetos práticos
+🎓 Cursando Ciência da Computação • Aprendendo e desenvolvendo projetos práticos
 
 
 ### 🤖 Linguagens e Tecnologias
